@@ -11,9 +11,9 @@ function Menu(){
                 <img className="Logo" src={logo} alt="Jambuflix logo" />
             </a>
 
-            <Button className="ButtonLink" href="/">
+           {/*  <Button className="ButtonLink" href="/">
                 Novo Vídeo
-            </Button>
+            </Button> */}
         </nav>
     );
 }
