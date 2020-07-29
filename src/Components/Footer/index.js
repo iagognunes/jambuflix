@@ -4,7 +4,7 @@ import { FooterBase } from './styles';
 function Footer() {
   return (
     <FooterBase>
-      <a href="https://www.linkedin.com/in/iagognunes/">
+      <a href="/">
         <img src="https://i.imgur.com/pLRZiJr.png" alt="Logo Jambuflix" />
       </a>
       <p>
