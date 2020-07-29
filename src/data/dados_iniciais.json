@@ -1,17 +1,17 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "",
+      "link": "",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "O Cinza - Nossa Bossa (Clipe Oficial)",
+          "url": "https://www.youtube.com/watch?v=HJXtL4OrN-o"
         },
         {
           "titulo": "SEO com React",
@@ -44,140 +44,134 @@
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "titulo": "O Cinza",
+      "cor": "#808080",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "É uma banda paraense com inspirações em movimentos musicais brasileiros (como a Bossa Nova, o Tropicalismo e a MPB) no Rock britânico da década 1960 e no Indie Rock/Rock Alternativo contemporâneo.",
+        "url": "https://www.youtube.com/OCinza/"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "O Mais Belo Registro da Casa 270 - Playlist",
+          "url": "https://www.youtube.com/watch?v=vsFY8KQn2E0&list=PLejTfypgXwajHOAmo4W-52WnNl_PYXkrO"
         },
+
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "O Lugar Onde Envelhecemos",
+          "url": "https://www.youtube.com/watch?v=7wTfAd_dLNk&list=PLejTfypgXwajL0KlWIlgoMDsW3UTE0xrT"
         },
+
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "De peito aberto - Playlist",
+          "url": "https://www.youtube.com/watch?v=WPKLoGG8vEA&list=PLejTfypgXwagXRiH2-8lLv8i_MWEKXKJ3"
         },
+        
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "O Cinza - Nossa Bossa (Clipe Oficial)",
+          "url": "https://www.youtube.com/watch?v=HJXtL4OrN-o"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "Noturna",
+      "cor": "#612028",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Indie rock autoral",
+        "url": "https://linktr.ee/noturnamusic"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "EP Amargo - Playlist",
+          "url": "https://www.youtube.com/watch?v=8fmlGua5iJc&list=PL8NVcvZRVYX-782bpR_cOC5ryg6yJiJBg"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Noturna - Procura (Videoclipe Oficial)",
+          "url": "https://www.youtube.com/watch?v=JMFpaU8Yh8o"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Noturna - Utopias Reais (Videoclipe Oficial)",
+          "url": "https://www.youtube.com/watch?v=Py3J_a1OVFo"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Noturna - Amarelo",
+          "url": "https://www.youtube.com/watch?v=44wm2JwvUSs"
+        },
+        {
+          "titulo": "Noturna - Ensolarado",
+          "url": "https://www.youtube.com/watch?v=WDk8QaeVMLI"
+        },
+        {
+          "titulo": "Noturna - Apática",
+          "url": "https://www.youtube.com/watch?v=hERnKGm3Vjw"
+        },
+        {
+          "titulo": "Noturna - Azul Natalino",
+          "url": "htps://wtww.youtube.com/watch?v=tRSVopP8in8"
         }
+        
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
-      "cor": "red",
+      "titulo": "Lótus Áurea",
+      "cor": "#C8A42F",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Rock progressivo com tempero amazônico!",
+        "url": "https://linktr.ee/lotusaurea"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Fragmentos (Ao Vivo)",
+          "url": "https://www.youtube.com/watch?v=wXzK7QbonDA&list=PL2eo9C0PyeZldyk2QygoSQWLTy64XICzN"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Lótus Áurea - Laguna",
+          "url": "https://www.youtube.com/watch?v=mvGyF6INjnw"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Lótus Áurea - Ágape",
+          "url": "https://www.youtube.com/watch?v=md1Sj4RsmRQ"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Lótus Áurea - Principia (Full Album)",
+          "url": "https://www.youtube.com/watch?v=-Njj3b80_hM"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Lótus Áurea - Retornei (Ao vivo no Teatro Waldemar Henrique)",
+          "url": "https://www.youtube.com/watch?v=_Zu-jKMMuNI"
+        },
+        {
+          "titulo": "Lótus Áurea - Utopia (Ao vivo no Teatro Waldemar Henrique)",
+          "url": "https://www.youtube.com/watch?v=zw0xdaEl-cg"
+        },
+        {
+          "titulo": "Lótus Áurea - Jornada (Ao vivo no Teatro Waldemar Henrique)",
+          "url": "https://www.youtube.com/watch?v=q-Sx7E-T4aA"
+        },
+        {
+          "titulo": "Lótus Áurea - Beba (Ao vivo no Teatro Waldemar Henrique)",
+          "url": "https://www.youtube.com/watch?v=BQYHPOcpQQA"
         }
       ]
     },
-    {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
+    { 
+      "titulo": "Pajaro",
+      "cor": "#D44847",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Pajaro é um projeto musical com influências da música popular Latina e da Amazônia ,como também do swing do soul, as influências permeiam sobre o movimento cru da existência.",
+        "url": "https://www.youtube.com/channel/UCPXq1XQTsvzWBjpA895z6YQ/featured"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Pajaro - Beira-Mar (Single)",
+          "url": "https://www.youtube.com/watch?v=By-RrlADTDI"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Pajaro - Beira-Mar (Clipe Oficial)",
+          "url": "https://www.youtube.com/watch?v=OLqN36UAUpE"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        },
-        {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Pajaro - O Sol na Cara (Clipe Oficial)",
+          "url": "https://www.youtube.com/watch?v=H5OFFB_JGr4"
         }
       ]
     }
