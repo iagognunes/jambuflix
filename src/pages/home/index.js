@@ -1,11 +1,11 @@
 import React from 'react';
-import Menu from './Components/Menu'
-import Carousel from './Components/Carousel'
-import Footer from './Components/Footer'
-import BannerMain from './Components/BannerMain'
-import dadosIniciais from './data/dados_iniciais.json'
+import Menu from '../../Components/Menu'
+import Carousel from '../../Components/Carousel'
+import Footer from '../../Components/Footer'
+import BannerMain from '../../Components/BannerMain'
+import dadosIniciais from '../../data/dados_iniciais.json'
 
-function App() {
+function Home() {
   return (
     <div style={{ background: "#141414" }}>
       <Menu />
@@ -37,5 +37,5 @@ function App() {
     </div>
   );
 }
-//Tempo da aula que parei: 1h18min
-export default App;
+
+export default Home;
