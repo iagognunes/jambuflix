@@ -27,5 +27,5 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
-//Parei em 25:41
+//Parei em 31:00
 
