@@ -232,6 +232,59 @@
           "url": "https://www.youtube.com/watch?v=ugWkmR5BBdE"
         }
       ]
+    },
+    { 
+      "titulo": "Velhos Cabanos",
+      "cor": "#7D1C12",
+      "link_extra": {
+        "text": "Velhos Cabanos é uma banda de rock progressivo.",
+        "url": "https://www.youtube.com/channel/UCVHQ5zo9BYbKKSrqK5baB4Q"
+      },
+      "videos": [
+        {
+          "titulo": "VELHOS CABANOS - EP RISCO (2019)",
+          "url": "https://www.youtube.com/watch?v=LOkc34CDXuk"
+        },
+        {
+          "titulo": "Velhos Cabanos - Traço",
+          "url": "https://www.youtube.com/watch?v=6zXaBxUcXrE"
+        },
+        {
+          "titulo": "Velhos Cabanos - Viajante Místico (Festival Morgana)",
+          "url": "https://www.youtube.com/watch?v=NbGtKNUQE4k"
+        },
+        {
+          "titulo": "Velhos Cabanos - Miragem",
+          "url": "https://www.youtube.com/watch?v=HkgkchGHIXs"
+        }
+      ]
+    },
+    { 
+      "titulo": "Nick Dias",
+      "cor": "#6F0FB3",
+      "link_extra": {
+        "text": "Rapper/Compositora/Poetisa.",
+        "url": "https://www.youtube.com/NICDIAS/"
+      },
+      "videos": [
+        {
+          "titulo": "Nic Dias - Baby Prince$$ [VIDEOCLIPE OFICIAL]",
+          "url": "https://www.youtube.com/watch?v=KOKht2Uu0ao"
+        },
+        {
+          "titulo": "Nic Dias Feat. Mc Super Shock - BRIO",
+          "url": "https://www.youtube.com/watch?v=HSxp8xIWi74"
+        },
+        {
+          "titulo": "Nic Dias - Guilhotina (Prod. Navi Beatz) [VIDEOCLIPE OFICIAL]",
+          "url": "https://www.youtube.com/watch?v=l4v5rdPx3BY"
+        },
+        {
+          "titulo": "Aula #3 Nic Dias - Degrau (Prod. Navi Beatz)",
+          "url": "https://www.youtube.com/watch?v=geGCl8wiUOI"
+        }
+      ]
     }
+
   ]
 }

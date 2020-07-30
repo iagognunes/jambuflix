@@ -3,8 +3,8 @@ import logo from '../../assets/img/logo.png';
 import './Menu.css'
 import {Link} from 'react-router-dom';
 //import ButtonLink from './Components/ButtonLink';
-import Button from '../Button';
-import CadastroVideo from '../../pages/cadastro/video'
+//import Button from '../Button';
+//import CadastroVideo from '../../pages/cadastro/video'
 
 function Menu(){
     return (
