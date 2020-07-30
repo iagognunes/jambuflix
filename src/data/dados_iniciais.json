@@ -179,7 +179,7 @@
       "titulo": "Monstra",
       "cor": "#162C55",
       "link_extra": {
-        "text": "",
+        "text": "Link",
         "url": "https://linktr.ee/monstraoficial"
       },
       "videos": [
@@ -194,6 +194,42 @@
         {
           "titulo": "Monstra - Daisy (Ao vivo)",
           "url": "https://www.youtube.com/watch?v=XHawCu_ciPM"
+        }
+      ]
+    },
+    { 
+      "titulo": "Kevin Kenned",
+      "cor": "#CC896E",
+      "link_extra": {
+        "text": "Link",
+        "url": "https://www.youtube.com/kevinkenned/"
+      },
+      "videos": [
+        {
+          "titulo": "Kevin Kenned - Tremidinha (Clipe Oficial)",
+          "url": "https://www.youtube.com/watch?v=_FKKXcb4srw"
+        },
+        {
+          "titulo": "Kevin Kenned - Matrimônio (Lyric Video)",
+          "url": "https://www.youtube.com/watch?v=WrUWz_zmufE"
+        },
+        {
+          "titulo": "OLLY, Kevin Kenned - Nunca Desperte o Amor (Áudio Oficial)",
+          "url": "https://www.youtube.com/watch?v=ZydxDI2G2uM"
+        }
+      ]
+    },
+    { 
+      "titulo": "Projeto MOA",
+      "cor": "#391E53",
+      "link_extra": {
+        "text": "O Projeto MOA é uma iniciativa cultural de relevância social patrocinada pela Fundação de Cultura do Município de Belém - Prefeitura de Belém.",
+        "url": "https://www.facebook.com/moacentromusical/"
+      },
+      "videos": [
+        {
+          "titulo": "Projeto MOA apresenta Pelas Fitas (v.a.)",
+          "url": "https://www.youtube.com/watch?v=ugWkmR5BBdE"
         }
       ]
     }
