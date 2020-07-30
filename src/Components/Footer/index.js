@@ -5,7 +5,7 @@ function Footer() {
   return (
     <FooterBase>
       <a href="/">
-        <img src="https://i.imgur.com/pLRZiJr.png" alt="Logo Jambuflix" />
+        <img src="https://i.imgur.com/bEE1sgp.png" alt="Logo Jambuflix" />
       </a>
       <p>
         Criado por

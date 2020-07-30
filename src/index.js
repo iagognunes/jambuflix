@@ -3,14 +3,13 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import Home from './pages/home';
 import CadastroVideo from './pages/cadastro/video';
+import Pagina404 from './pages/erro404'
 
 import {
   BrowserRouter,
   Switch,
   Route
 } from 'react-router-dom';
-
-const Pagina404 = () => (<div> Não tem nada aqui amigo </div>);
 
 ReactDOM.render(
   <BrowserRouter>
