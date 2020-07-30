@@ -284,6 +284,76 @@
           "url": "https://www.youtube.com/watch?v=geGCl8wiUOI"
         }
       ]
+    },
+    { 
+      "titulo": "Joana Marte",
+      "cor": "#00589A",
+      "link_extra": {
+        "text": "Influências de rock alternativo e música brasileira.",
+        "url": "www.youtube.com/JoanaMarte/"
+      },
+      "videos": [
+        {
+          "titulo": "Joana Marte - Maria e João",
+          "url": "https://www.youtube.com/watch?v=kS-I8ihijVw"
+        },
+        {
+          "titulo": "Joana Marte - Egresso (Clipe Oficial)",
+          "url": "https://www.youtube.com/watch?v=Qd6jRDBApBU"
+        },
+        {
+          "titulo": "Joana Marte - Retrato de Nós | Ao Vivo no Ziggy Club",
+          "url": "https://www.youtube.com/watch?v=aiW7tsrGCfU"
+        },
+        {
+          "titulo": "Joana Marte - Desenlace (Ao Vivo Festival Se Rasgum 2018)",
+          "url": "https://www.youtube.com/watch?v=bq3eggMHutU"
+        },
+        {
+          "titulo": "Joana Marte - Novo Lar (Janela) (Ao Vivo Festival Se Rasgum 2018)",
+          "url": "https://www.youtube.com/watch?v=f0UBQEOkSQo"
+        }
+        
+      ]
+    },
+    { 
+      "titulo": "Molho Negro",
+      "cor": "#0F0F0F",
+      "link_extra": {
+        "text": "Banda de Rock direto das garagens de Belém do Pará.",
+        "url": "https://www.youtube.com/user/molhonegro"
+      },
+      "videos": [
+        {
+          "titulo": "Lobo (2014)",
+          "url": "https://www.youtube.com/watch?v=CNQZ6m0ehxc&list=PLcbKXZdXE2eRZL22Z26exqWpyduaMST-s"
+        },
+        {
+          "titulo": "Não é nada disso que você pensou (2017)",
+          "url": "https://www.youtube.com/watch?v=ACdgaDmRyA4&list=PLcbKXZdXE2eTqev6r_lZB6rDOai7TqIcy"
+        },
+        {
+          "titulo": "Normal (2018)",
+          "url": "https://www.youtube.com/watch?v=3BtBEuQao6c&list=PLcbKXZdXE2eSD3FvofAkng9PX2jMV25B2"
+        },
+        {
+          "titulo": "Molho Negro - Contracheque",
+          "url": "https://www.youtube.com/watch?v=4yU9lh7nX7I&t"
+        },
+        {
+          "titulo": "Molho Negro - Souza Cruz",
+          "url": "https://www.youtube.com/watch?v=Sc6OrfREmFY"
+        },
+        {
+          "titulo": "Molho Negro - Negro Gato",
+          "url": "https://www.youtube.com/watch?v=gEAL9JJG6yI"
+        },
+        {
+          "titulo": "Molho Negro - Concurso",
+          "url": "https://www.youtube.com/watch?v=YdFQvYp0X38"
+        }
+        
+      ]
     }
 
   ]
