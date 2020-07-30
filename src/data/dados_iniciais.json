@@ -174,6 +174,28 @@
           "url": "https://www.youtube.com/watch?v=H5OFFB_JGr4"
         }
       ]
+    },
+    { 
+      "titulo": "Monstra",
+      "cor": "#162C55",
+      "link_extra": {
+        "text": "",
+        "url": "https://linktr.ee/monstraoficial"
+      },
+      "videos": [
+        {
+          "titulo": "Monstra - Efêmero",
+          "url": "https://www.youtube.com/watch?v=5a51pJB_ZQo"
+        },
+        {
+          "titulo": "Monstra - Senhorita Arco-íris",
+          "url": "https://www.youtube.com/watch?v=c1yCHemit-E"
+        },
+        {
+          "titulo": "Monstra - Daisy (Ao vivo)",
+          "url": "https://www.youtube.com/watch?v=XHawCu_ciPM"
+        }
+      ]
     }
   ]
 }
