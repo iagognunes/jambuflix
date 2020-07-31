@@ -52,7 +52,7 @@ function CadastroCategoria() {
                 <div>
                     <label>
                         Descrição:
-            <textarea
+                        <textarea
                             type="text"
                             name="descricao"
                             value={Values.descricao}
@@ -61,17 +61,13 @@ function CadastroCategoria() {
                     </label>
                 </div>
 
-                <div>
-                    <label>
-                        Cor:
-            <input
-                            type="color"
-                            name="cor"
-                            value={Values.cor}
-                            onChange={handleChange}
-                        />
-                    </label>
-                </div>
+                <FormField
+                    label="Cor:"
+                    name='cor'
+                    type='color'
+                    value={Values.cor}
+                    onChange={handleChange}
+                />
 
                 <button>
                     Cadastrar
