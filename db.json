@@ -5,6 +5,12 @@
     "nome": "testeNome",
     "descricao": "categoriaTeste",
     "cor": "#6bd1ff"
-    }
+    },
+    { 
+      "id": 2,
+      "nome": "testeNome2",
+      "descricao": "categoriaTeste2",
+      "cor": "#6bd1ff"
+      }
   ]
 }
