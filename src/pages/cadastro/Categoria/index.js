@@ -29,17 +29,17 @@ function CadastroCategoria() {
   }
 
   useEffect(() => {
-    const url = 'http://localhost:8080/bandas';
-    fetch(url)
+    const URL_DB = window.location.hostname.includes('localhost')
+      ? 'http://localhost:8080/bandas'
+      : 'https://jambuflix.herokuapp.com/bandas';
+    fetch(URL_DB)
       .then(async (respostaDoServidor) => {
         const resposta = await respostaDoServidor.json();
         setCategorias([
           ...resposta,
         ]);
       });
-  }, [
-
-  ]);
+  }, []);
 
   return (
     <PageDefault>
