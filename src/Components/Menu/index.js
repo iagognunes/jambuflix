@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import logo from '../../assets/img/logo.png';
 import './Menu.css';
 
-//import Button from '../Button';
+import Button from '../Button';
 // import CadastroVideo from '../../pages/cadastro/video'
 
 function Menu() {
@@ -13,9 +13,9 @@ function Menu() {
         <img className="Logo" src={logo} alt="Jambuflix logo" />
       </Link>
 
-      {/* <Button as={Link} className="ButtonLink" to="/jambuadmin/cadastroVideo">
+      <Button as={Link} className="ButtonLink" to="/jambuadmin/cadastroVideo">
         Novo Vídeo
-      </Button> */}
+      </Button>
     </nav>
   );
 }

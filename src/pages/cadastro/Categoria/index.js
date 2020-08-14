@@ -44,7 +44,7 @@ function CadastroCategoria() {
   return (
     <PageDefault>
       <h1>
-        Cadastro de Categoria:
+        Cadastro da Banda:
         {Values.nome}
       </h1>
 
@@ -60,7 +60,7 @@ function CadastroCategoria() {
       >
 
         <FormField
-          label="Nome da Categoria:"
+          label="Nome da Banda:"
           name="nome"
           type="text"
           value={Values.nome}
@@ -96,8 +96,8 @@ function CadastroCategoria() {
 
       <ul>
         {categorias.map((categoria) => (
-          <li key={`${categoria.nome}`}>
-            {categoria.nome}
+          <li key={`${categoria.titulo}`}>
+            {categoria.titulo}
           </li>
         ))}
       </ul>
@@ -108,5 +108,5 @@ function CadastroCategoria() {
     </PageDefault>
   );
 }
-//Parei em 6min do ultimo video
+
 export default CadastroCategoria;
