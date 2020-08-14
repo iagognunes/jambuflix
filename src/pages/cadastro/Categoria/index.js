@@ -3,6 +3,9 @@ import { Link } from 'react-router-dom';
 import PageDefault from '../../../Components/PageDefault';
 import FormField from '../../../Components/FormField';
 import Button from '../../../Components/Button';
+import useForm from '../../../hooks/useForm';
+
+//parei em 17:30 do ultimo video
 
 function CadastroCategoria() {
   const valoresIniciais = {
@@ -11,22 +14,9 @@ function CadastroCategoria() {
     cor: '',
   };
 
+  const { handleChange, Values, clearForm } = useForm(valoresIniciais);
+
   const [categorias, setCategorias] = useState([]);
-  const [Values, setValues] = useState(valoresIniciais);
-
-  function setValue(chave, valor) {
-    setValues({
-      ...Values,
-      [chave]: valor,
-    });
-  }
-
-  function handleChange(info) {
-    setValue(
-      info.target.getAttribute('name'),
-      info.target.value,
-    );
-  }
 
   useEffect(() => {
     const URL_DB = window.location.hostname.includes('localhost')
@@ -55,7 +45,7 @@ function CadastroCategoria() {
           Values,
         ]);
 
-        setValues(valoresIniciais);
+        clearForm();
       }}
       >
 
