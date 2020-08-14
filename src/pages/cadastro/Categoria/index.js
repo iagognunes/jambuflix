@@ -108,5 +108,5 @@ function CadastroCategoria() {
     </PageDefault>
   );
 }
-
+//Parei em 6min do ultimo video
 export default CadastroCategoria;
