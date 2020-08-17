@@ -115,343 +115,343 @@
   "videos": [
     {
       "id": 1,
-      "bandasId": 1,
+      "bandaId": 1,
       "titulo": "O Mais Belo Registro da Casa 270 - Playlist",
       "url": "https://www.youtube.com/watch?v=vsFY8KQn2E0&list=PLejTfypgXwajHOAmo4W-52WnNl_PYXkrO"
     },
 
     {
       "id": 2,
-      "bandasId": 1,
+      "bandaId": 1,
       "titulo": "O Lugar Onde Envelhecemos",
       "url": "https://www.youtube.com/watch?v=7wTfAd_dLNk&list=PLejTfypgXwajL0KlWIlgoMDsW3UTE0xrT"
     },
 
     {
       "id": 3,
-      "bandasId": 1,
+      "bandaId": 1,
       "titulo": "De peito aberto - Playlist",
       "url": "https://www.youtube.com/watch?v=WPKLoGG8vEA&list=PLejTfypgXwagXRiH2-8lLv8i_MWEKXKJ3"
     },
 
     {
       "id": 4,
-      "bandasId": 1,
+      "bandaId": 1,
       "titulo": "O Cinza - Nossa Bossa (Clipe Oficial)",
       "url": "https://www.youtube.com/watch?v=HJXtL4OrN-o"
     },
 
     {
       "id": 5,
-      "bandasId": 2,
+      "bandaId": 2,
       "titulo": "EP Amargo - Playlist",
       "url": "https://www.youtube.com/watch?v=8fmlGua5iJc&list=PL8NVcvZRVYX-782bpR_cOC5ryg6yJiJBg"
     },
 
     {
       "id": 6,
-      "bandasId": 2,
+      "bandaId": 2,
       "titulo": "Noturna - Procura (Videoclipe Oficial)",
       "url": "https://www.youtube.com/watch?v=JMFpaU8Yh8o"
     },
 
     {
       "id": 7,
-      "bandasId": 2,
+      "bandaId": 2,
       "titulo": "Noturna - Utopias Reais (Videoclipe Oficial)",
       "url": "https://www.youtube.com/watch?v=Py3J_a1OVFo"
     },
 
     {
       "id": 8,
-      "bandasId": 2,
+      "bandaId": 2,
       "titulo": "Noturna - Amarelo",
       "url": "https://www.youtube.com/watch?v=44wm2JwvUSs"
     },
 
     {
       "id": 9,
-      "bandasId": 2,
+      "bandaId": 2,
       "titulo": "Noturna - Ensolarado",
       "url": "https://www.youtube.com/watch?v=WDk8QaeVMLI"
     },
 
     {
       "id": 10,
-      "bandasId": 2,
+      "bandaId": 2,
       "titulo": "Noturna - Apática",
       "url": "https://www.youtube.com/watch?v=hERnKGm3Vjw"
     },
 
     {
       "id": 11,
-      "bandasId": 2,
+      "bandaId": 2,
       "titulo": "Noturna - Azul Natalino",
       "url": "htps://wtww.youtube.com/watch?v=tRSVopP8in8"
     },
 
     {
       "id": 12,
-      "bandasId": 3,
+      "bandaId": 3,
       "titulo": "Fragmentos (Ao Vivo)",
       "url": "https://www.youtube.com/watch?v=wXzK7QbonDA&list=PL2eo9C0PyeZldyk2QygoSQWLTy64XICzN"
     },
 
     {
       "id": 13,
-      "bandasId": 3,
+      "bandaId": 3,
       "titulo": "Lótus Áurea - Laguna",
       "url": "https://www.youtube.com/watch?v=mvGyF6INjnw"
     },
 
     {
       "id": 14,
-      "bandasId": 3,
+      "bandaId": 3,
       "titulo": "Lótus Áurea - Ágape",
       "url": "https://www.youtube.com/watch?v=md1Sj4RsmRQ"
     },
 
     {
       "id": 15,
-      "bandasId": 3,
+      "bandaId": 3,
       "titulo": "Lótus Áurea - Principia (Full Album)",
       "url": "https://www.youtube.com/watch?v=-Njj3b80_hM"
     },
 
     {
       "id": 16,
-      "bandasId": 3,
+      "bandaId": 3,
       "titulo": "Lótus Áurea - Retornei (Ao vivo no Teatro Waldemar Henrique)",
       "url": "https://www.youtube.com/watch?v=_Zu-jKMMuNI"
     },
 
     {
       "id": 17,
-      "bandasId": 3,
+      "bandaId": 3,
       "titulo": "Lótus Áurea - Utopia (Ao vivo no Teatro Waldemar Henrique)",
       "url": "https://www.youtube.com/watch?v=zw0xdaEl-cg"
     },
 
     {
       "id": 18,
-      "bandasId": 3,
+      "bandaId": 3,
       "titulo": "Lótus Áurea - Jornada (Ao vivo no Teatro Waldemar Henrique)",
       "url": "https://www.youtube.com/watch?v=q-Sx7E-T4aA"
     },
 
     {
       "id": 19,
-      "bandasId": 3,
+      "bandaId": 3,
       "titulo": "Lótus Áurea - Beba (Ao vivo no Teatro Waldemar Henrique)",
       "url": "https://www.youtube.com/watch?v=BQYHPOcpQQA"
     },
 
     {
       "id": 20,
-      "bandasId": 4,
+      "bandaId": 4,
       "titulo": "Pajaro - Beira-Mar (Single)",
       "url": "https://www.youtube.com/watch?v=By-RrlADTDI"
     },
 
     {
       "id": 21,
-      "bandasId": 4,
+      "bandaId": 4,
       "titulo": "Pajaro - Beira-Mar (Clipe Oficial)",
       "url": "https://www.youtube.com/watch?v=OLqN36UAUpE"
     },
 
     {
       "id": 22,
-      "bandasId": 4,
+      "bandaId": 4,
       "titulo": "Pajaro - O Sol na Cara (Clipe Oficial)",
       "url": "https://www.youtube.com/watch?v=H5OFFB_JGr4"
     },
 
     {
       "id": 23,
-      "bandasId": 5,
+      "bandaId": 5,
       "titulo": "Monstra - Efêmero",
       "url": "https://www.youtube.com/watch?v=5a51pJB_ZQo"
     },
 
     {
       "id": 24,
-      "bandasId": 5,
+      "bandaId": 5,
       "titulo": "Monstra - Senhorita Arco-íris",
       "url": "https://www.youtube.com/watch?v=c1yCHemit-E"
     },
 
     {
       "id": 25,
-      "bandasId": 5,
+      "bandaId": 5,
       "titulo": "Monstra - Daisy (Ao vivo)",
       "url": "https://www.youtube.com/watch?v=XHawCu_ciPM"
     },
 
     {
       "id": 26,
-      "bandasId": 6,
+      "bandaId": 6,
       "titulo": "Kevin Kenned - Tremidinha (Clipe Oficial)",
       "url": "https://www.youtube.com/watch?v=_FKKXcb4srw"
     },
 
     {
       "id": 27,
-      "bandasId": 6,
+      "bandaId": 6,
       "titulo": "Kevin Kenned - Matrimônio (Lyric Video)",
       "url": "https://www.youtube.com/watch?v=WrUWz_zmufE"
     },
 
     {
       "id": 28,
-      "bandasId": 6,
+      "bandaId": 6,
       "titulo": "OLLY, Kevin Kenned - Nunca Desperte o Amor (Áudio Oficial)",
       "url": "https://www.youtube.com/watch?v=ZydxDI2G2uM"
     },
 
     {
       "id": 29,
-      "bandasId": 7,
+      "bandaId": 7,
       "titulo": "Projeto MOA apresenta Pelas Fitas (v.a.)",
       "url": "https://www.youtube.com/watch?v=ugWkmR5BBdE"
     },
 
     {
       "id": 30,
-      "bandasId": 8,
+      "bandaId": 8,
       "titulo": "Velhos Cabanos - EP RISCO (2019)",
       "url": "https://www.youtube.com/watch?v=LOkc34CDXuk"
     },
 
     {
       "id": 31,
-      "bandasId": 8,
+      "bandaId": 8,
       "titulo": "Velhos Cabanos - Traço",
       "url": "https://www.youtube.com/watch?v=6zXaBxUcXrE"
     },
 
     {
       "id": 32,
-      "bandasId": 8,
+      "bandaId": 8,
       "titulo": "Velhos Cabanos - Viajante Místico (Festival Morgana)",
       "url": "https://www.youtube.com/watch?v=NbGtKNUQE4k"
     },
 
     {
       "id": 33,
-      "bandasId": 8,
+      "bandaId": 8,
       "titulo": "Velhos Cabanos - Miragem",
       "url": "https://www.youtube.com/watch?v=HkgkchGHIXs"
     },
 
     {
       "id": 34,
-      "bandasId": 9,
+      "bandaId": 9,
       "titulo": "Nic Dias - Baby Prince$$ [VIDEOCLIPE OFICIAL]",
       "url": "https://www.youtube.com/watch?v=KOKht2Uu0ao"
     },
 
     {
       "id": 35,
-      "bandasId": 9,
+      "bandaId": 9,
       "titulo": "Nic Dias Feat. Mc Super Shock - BRIO",
       "url": "https://www.youtube.com/watch?v=HSxp8xIWi74"
     },
 
     {
       "id": 36,
-      "bandasId": 9,
+      "bandaId": 9,
       "titulo": "Nic Dias - Guilhotina (Prod. Navi Beatz) [VIDEOCLIPE OFICIAL]",
       "url": "https://www.youtube.com/watch?v=l4v5rdPx3BY"
     },
 
     {
       "id": 37,
-      "bandasId": 9,
+      "bandaId": 9,
       "titulo": "Aula #3 Nic Dias - Degrau (Prod. Navi Beatz)",
       "url": "https://www.youtube.com/watch?v=geGCl8wiUOI"
     },
 
     {
       "id": 38,
-      "bandasId": 10,
+      "bandaId": 10,
       "titulo": "Joana Marte - Maria e João",
       "url": "https://www.youtube.com/watch?v=kS-I8ihijVw"
     },
 
     {
       "id": 39,
-      "bandasId": 10,
+      "bandaId": 10,
       "titulo": "Joana Marte - Egresso (Clipe Oficial)",
       "url": "https://www.youtube.com/watch?v=Qd6jRDBApBU"
     },
 
     {
       "id": 40,
-      "bandasId": 10,
+      "bandaId": 10,
       "titulo": "Joana Marte - Retrato de Nós | Ao Vivo no Ziggy Club",
       "url": "https://www.youtube.com/watch?v=aiW7tsrGCfU"
     },
 
     {
       "id": 41,
-      "bandasId": 10,
+      "bandaId": 10,
       "titulo": "Joana Marte - Desenlace (Ao Vivo Festival Se Rasgum 2018)",
       "url": "https://www.youtube.com/watch?v=bq3eggMHutU"
     },
 
     {
       "id": 42,
-      "bandasId": 10,
+      "bandaId": 10,
       "titulo": "Joana Marte - Novo Lar (Janela) (Ao Vivo Festival Se Rasgum 2018)",
       "url": "https://www.youtube.com/watch?v=f0UBQEOkSQo"
     },
 
     {
       "id": 43,
-      "bandasId": 11,
+      "bandaId": 11,
       "titulo": "Lobo (2014)",
       "url": "https://www.youtube.com/watch?v=CNQZ6m0ehxc&list=PLcbKXZdXE2eRZL22Z26exqWpyduaMST-s"
     },
 
     {
       "id": 44,
-      "bandasId": 11,
+      "bandaId": 11,
       "titulo": "Não é nada disso que você pensou (2017)",
       "url": "https://www.youtube.com/watch?v=ACdgaDmRyA4&list=PLcbKXZdXE2eTqev6r_lZB6rDOai7TqIcy"
     },
 
     {
       "id": 45,
-      "bandasId": 11,
+      "bandaId": 11,
       "titulo": "Normal (2018)",
       "url": "https://www.youtube.com/watch?v=3BtBEuQao6c&list=PLcbKXZdXE2eSD3FvofAkng9PX2jMV25B2"
     },
 
     {
       "id": 46,
-      "bandasId": 11,
+      "bandaId": 11,
       "titulo": "Molho Negro - Contracheque",
       "url": "https://www.youtube.com/watch?v=4yU9lh7nX7I&t"
     },
 
     {
       "id": 47,
-      "bandasId": 11,
+      "bandaId": 11,
       "titulo": "Molho Negro - Souza Cruz",
       "url": "https://www.youtube.com/watch?v=Sc6OrfREmFY"
     },
 
     {
       "id": 48,
-      "bandasId": 11,
+      "bandaId": 11,
       "titulo": "Molho Negro - Negro Gato",
       "url": "https://www.youtube.com/watch?v=gEAL9JJG6yI"
     },
 
     {
       "id": 49,
-      "bandasId": 11,
+      "bandaId": 11,
       "titulo": "Molho Negro - Concurso",
       "url": "https://www.youtube.com/watch?v=YdFQvYp0X38"
     }

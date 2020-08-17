@@ -1,16 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Home from './pages/home';
-import CadastroVideo from './pages/cadastro/video';
-import Pagina404 from './pages/erro404';
-import CadastroCategoria from './pages/cadastro/Categoria'
-
 import {
   BrowserRouter,
   Switch,
-  Route
+  Route,
 } from 'react-router-dom';
+import Home from './pages/home';
+import CadastroVideo from './pages/cadastro/video';
+import Pagina404 from './pages/erro404';
+import CadastroCategoria from './pages/cadastro/Categoria';
 
 ReactDOM.render(
   <BrowserRouter>
@@ -22,10 +21,8 @@ ReactDOM.render(
     </Switch>
   </BrowserRouter>,
 
-  //<React.StrictMode>
+  // <React.StrictMode>
   //  <App />
-  //</React.StrictMode>,
-  document.getElementById('root')
+  // </React.StrictMode>,
+  document.getElementById('root'),
 );
-
-

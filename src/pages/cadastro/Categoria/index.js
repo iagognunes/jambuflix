@@ -5,8 +5,6 @@ import FormField from '../../../Components/FormField';
 import Button from '../../../Components/Button';
 import useForm from '../../../hooks/useForm';
 
-//parei em 17:30 do ultimo video
-
 function CadastroCategoria() {
   const valoresIniciais = {
     nome: '',
@@ -73,7 +71,7 @@ function CadastroCategoria() {
           onChange={handleChange}
         />
 
-        <Button>
+        <Button type="submit">
           Cadastrar
         </Button>
       </form>
